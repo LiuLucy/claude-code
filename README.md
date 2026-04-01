@@ -433,3 +433,7 @@ claude-code/
 ## 许可证
 
 本项目仅供学习研究用途。Claude Code 的所有权利归 [Anthropic](https://www.anthropic.com/) 所有。
+
+---
+
+Forked by [@LiouLucy](https://github.com/LiuLucy)
